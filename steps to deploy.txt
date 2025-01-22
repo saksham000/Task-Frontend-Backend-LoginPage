@@ -1,0 +1,6 @@
+run docker command to run backend
+docker run --name task -e MYSQL_ROOT_PASSWORD=saksham -e MYSQL_DATABASE=task -e MYSQL_USER=saksham -e MYSQL_PASSWORD=saksham -p 3306:3306 -d mysql:latest
+
+now to run frontend use this
+npm i
+npm start
