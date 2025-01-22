@@ -1,0 +1,1 @@
+This a Online School FullStack Project in which Teachers can live stream and teach students online and manage the Students. This Project is Completed Now !!, Bringing New Updates in Future So Stay Tuned...!
